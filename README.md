@@ -1,7 +1,7 @@
 First full portfolio website. 
 
 Coded in Visual Studio Code.
-Built with HTML and CSS, deployed with Netlify
+Built with HTML and CSS, deployed with Netlify.
 All text is set in the Inter typeface.
 
 Provides snapshot of key experience and projects delivered, alongside 
